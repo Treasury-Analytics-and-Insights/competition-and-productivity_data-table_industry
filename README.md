@@ -5,8 +5,8 @@
 
 ## Contents
 
-1. 📊 **Dataset**: 20250717_industry_competition_productivity_database.xlsx - Industry-level aggregated data with competition metrics, productivity measures, and firm dynamics indicators
-2. 📄 **Research Paper**: Academic paper presented at the 2025 NZAE Conference analyzing productivity trends and their relationship with competitive conditions
+1. 📊 **Dataset**: `2025-07-17_industry_competition_productivity_database.xlsx`: Industry-level aggregated data with competition metrics, productivity measures, and firm dynamics indicators
+2. 📄 **Research Paper**: Academic paper presented at the 2025 NZAE Conference analysing productivity trends and their relationship with competitive conditions
 3. 🎯 **Presentation**: Conference slides showcasing key findings and dataset applications
 
 ## Dataset Overview
@@ -17,7 +17,7 @@ The database consolidates industry-level metrics, including:
 - **Business Dynamics**: Birth/death rates, employee counts, geographic unit changes
 - **Coverage**: 39 NZSIOC Level 3 industries, annual (March year, unless otherwise stated) observations 2001-2022
 
-For more information, please refer to the `readme`, `dislaimer`, and `metadata` sheets in the .xlsx file.
+For more information, please refer to the `readme`, `dislaimer`, `version_notes` and `metadata` sheets in the .xlsx file.
 
 ## Citation
 ```
